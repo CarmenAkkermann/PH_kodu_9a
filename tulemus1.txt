@@ -1,0 +1,25 @@
+Ülesanne 9a-1.                          Programmi väljund
+=========================================================:
+
+            Antud: []
+Pärast vahetamisi: []
+                   Test OK.
+
+            Antud: [-24]
+Pärast vahetamisi: [-24]
+                   Test OK.
+
+            Antud: [64, 28]
+Pärast vahetamisi: [28, 64]
+                   Test OK.
+
+            Antud: [100, 12, -30, 49, 90, -72, -90, 99]
+Pärast vahetamisi: [12, 100, 49, -30, -72, 90, 99, -90]
+                   Test OK.
+
+            Antud: [46, -74, 33, 62, -15, -10, 40, 14, 41, 5, 16, -40, -2, 62, 16]
+Pärast vahetamisi: [-74, 46, 62, 33, -10, -15, 14, 40, 5, 41, -40, 16, 62, -2, 16]
+                   Test OK.
+
+=========================================================.
+Carmen Akkermann                  2020-04-24 00:12:04.363
