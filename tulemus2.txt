@@ -1,0 +1,31 @@
+Ülesanne 9a-1.                          Programmi väljund
+=========================================================:
+
+
+Antud: [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, -9, 0, 0, 0]
+Märgimuute, iteratiivselt:        1
+Märgimuute, unaar-rekutsiivselt:  1
+Märgimuute, binaar-rekursiivselt: 1
+
+Antud: [22, 0, -9, 8, -9, 0, 0, -12, 18, 0, 28, 0, 25, 0, 25, 0, 10]
+Märgimuute, iteratiivselt:        4
+Märgimuute, unaar-rekutsiivselt:  4
+Märgimuute, binaar-rekursiivselt: 4
+
+Antud: [24, 0, 0, -1, -6, 0, 0, 38, 19, 0, 28, 0, -2, 0, 9]
+Märgimuute, iteratiivselt:        4
+Märgimuute, unaar-rekutsiivselt:  4
+Märgimuute, binaar-rekursiivselt: 4
+
+Antud: [33, 0, -8, 3, -11, 27, 0, -4, 16, -4, 0, 24, 4, -15, 0, 0]
+Märgimuute, iteratiivselt:        9
+Märgimuute, unaar-rekutsiivselt:  9
+Märgimuute, binaar-rekursiivselt: 9
+
+Antud: [29, 35, 26, -1, -3, 34, 17, 20, 11, 2, 1]
+Märgimuute, iteratiivselt:        2
+Märgimuute, unaar-rekutsiivselt:  2
+Märgimuute, binaar-rekursiivselt: 2
+
+=========================================================.
+Carmen Akkermann                  2020-04-24 03:00:12.864
