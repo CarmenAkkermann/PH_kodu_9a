@@ -128,7 +128,7 @@ public class Ylesanne9a_2 {
 
 
     public static void main(String[] args) {
-        System.out.println("Ülesanne 9a-1.                          Programmi väljund");
+        System.out.println("Ülesanne 9a-2.                          Programmi väljund");
         System.out.println("=========================================================:\n");
 
         List<Integer> a = new ArrayList<>();
